@@ -14,7 +14,7 @@ Part 1 consisted of 5 questions which are answered in the pdf file titled "2020N
 
 ### Part 2
 
-For Part 2 of the project was a Linux assignment that I had to answer questions for.
+For Part 2 of the project was a Linux assignment that I had to answer four questions that involved using a Linux
 
 **Question 1** 
 
